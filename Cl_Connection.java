@@ -10,7 +10,7 @@ package com.mycompany.pj_gestion_musique;
  */
 public class Cl_Connection {
     //connection a la base de données
-    public static String url = "//falbala.futaie.org:3306/compaorez";
-    public static String login ="compaorez";
-    public static String password ="eiH3doo9heet";
+    public static String url = "entrer votre url";
+    public static String login ="votre login";
+    public static String password ="votre mdp";
 }
